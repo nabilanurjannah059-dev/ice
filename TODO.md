@@ -1,0 +1,4 @@
+- [x] Add "use client" directive to cie/components/login-form.tsx
+- [x] Import useRouter from 'next/navigation' in login-form.tsx
+- [x] Add handleSubmit function that navigates to /dashboard on form submit
+- [x] Attach onSubmit handler to the form element in login-form.tsx
